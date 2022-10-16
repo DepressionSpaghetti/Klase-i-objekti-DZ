@@ -1,0 +1,8 @@
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\bin\Debug\KlaseIobjekti_DZ.exe.config
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\bin\Debug\KlaseIobjekti_DZ.exe
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\bin\Debug\KlaseIobjekti_DZ.pdb
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\obj\Debug\KlaseIobjekti_DZ.csproj.AssemblyReference.cache
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\obj\Debug\KlaseIobjekti_DZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\obj\Debug\KlaseIobjekti_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\obj\Debug\KlaseIobjekti_DZ.exe
+C:\Users\Piero\source\repos\KlaseIobjekti_DZ\obj\Debug\KlaseIobjekti_DZ.pdb

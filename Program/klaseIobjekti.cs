@@ -33,9 +33,9 @@ namespace klaseIobjekti
 
             public override string ToString()
             {
-                string ispis = "Ime i prezime: " + this.Naziv
-                + "\r\nGodina rodjenja: " + this.SnagaMotora
-                + "\r\nVisina: " + this.DosegLeta;
+                string ispis = "Naziv: " + this.Naziv
+                + "\r\Snaga motora: " + this.SnagaMotora
+                + "\r\nDoseg leta: " + this.DosegLeta;
 
                 return ispis;
             }
